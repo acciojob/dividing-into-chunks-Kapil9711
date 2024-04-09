@@ -6,7 +6,7 @@ const divide = (arr, n) => {
 	let subArrs = [];
 	let sum = 0;
 	let subArr = [];
-	for(let i = 0 ; i < arr.length: i++ ){
+	for(let i = 0 ; i < arr.length; i++ ){
 		let ele = arr[i];
 	sum += ele;
 		if(sum <= n){
